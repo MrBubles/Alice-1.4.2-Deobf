@@ -1,0 +1,214 @@
+
+
+/*
+ * Decompiled with CFR 0.150.
+ * 
+ * Could not load the following classes:
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIIllIllIIllIlllIIlIIIllIllIIllIIlIIIllIIllIIlIlllIIlllIlllIIllIlllIIlllIIllIllIllIIlIIlllIIIlIlIllIllIIIlllIIIlIIIllIllIIlIIlllIIlIIllIIIllIIIlllIlllIlIIlIIIlIlIllIIlIIllIIIlIIIllIIIllIIIlllIIllIllIIIllIllIlllIllIIlIIllIIlIlllIIIl
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl$IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlIllIIlIIlIllIIlllIIlIIlIIlIIllIllIIlIIIlIIllIIlIIlllIlIIIllIllIIIlllIIlllIllIIIlIlllIIIllIIlIlllIIllIIIlllIIllIlllIllIIllIIIllIIIlIIlIIIlllIllIIIllIIlllIllIIIllIIIllIIlIIlllIIIlIIIlIIllIIlllIlIIIlllIIllIIIlIIIllIlIIIllIIlllIIlllIlll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIllIIllIIIllIIlllIlIIIllIlllIIllIIlIlIIIllIIllIlllIIllIllIIlIIllIlIIIlllIIllIlllIIIllIllIllIIllIlllIIIlIIllIlllIlllIIllIIllIllIIIlIllIIlIlIIlIIllIlIIIlIIIlIIlllIIllIllIlllIIlIlllIIlIllIlllIIIllIIIllIlIIIllIIlIIlIIlIlll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll$IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IlIllIIIllIIIlIIIlIIlIIIlIIlllIIllIIllIlllIlIIlIllIIIlIIlIllIIllIllIIllIIllIIlllIllIllIIlllIIIlIIIllIIlIlIIIllIIIlIIlIllIIlIIllIIIllIIllIlIIlllIIlIIIlIllIIIlIIIllIIlllIIllIIlllIllIIIlllIIIlllIllIllIllIIlIIlllIIIlllIIlllIIIlllIllIIll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.IllIllIIIlIIIlllIIllIIlIIlllIIIlIlIIllIIlIIIlIIllIIIllIIlIIIllIIlIlllIlllIllIIIlIIllIIIllIIlIllIIIllIIIllIlIIIlIIllIlIlIIlllIIIllIlIllIIlllIIIlIllIllIlIlIIIllIIllIIllIIlIllIIlIlIIlIIllIIllIlIlllIIIllIIlllIlIIlIIlIIIlll
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.cb
+ *  me.snow.aclient.core.setting.superblaubeere27obfuscator.cv
+ *  net.minecraft.client.Minecraft
+ *  net.minecraft.client.entity.AbstractClientPlayer
+ *  net.minecraft.client.entity.EntityPlayerSP
+ *  net.minecraft.client.network.NetHandlerPlayClient
+ *  net.minecraft.entity.MoverType
+ *  net.minecraft.stats.RecipeBook
+ *  net.minecraft.stats.StatisticsManager
+ *  net.minecraft.util.MovementInput
+ *  net.minecraft.util.math.AxisAlignedBB
+ *  net.minecraft.util.math.Vec2f
+ *  net.minecraft.world.World
+ *  net.minecraftforge.common.MinecraftForge
+ *  net.minecraftforge.fml.common.eventhandler.Event
+ */
+package me.snow.aclient.mixin.mixins;
+
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIIllIllIIllIlllIIlIIIllIllIIllIIlIIIllIIllIIlIlllIIlllIlllIIllIlllIIlllIIllIllIllIIlIIlllIIIlIlIllIllIIIlllIIIlIIIllIllIIlIIlllIIlIIllIIIllIIIlllIlllIlIIlIIIlIlIllIIlIIllIIIlIIIllIIIllIIIlllIIllIllIIIllIllIlllIllIIlIIllIIlIlllIIIl;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlIllIIlIIlIllIIlllIIlIIlIIlIIllIllIIlIIIlIIllIIlIIlllIlIIIllIllIIIlllIIlllIllIIIlIlllIIIllIIlIlllIIllIIIlllIIllIlllIllIIllIIIllIIIlIIlIIIlllIllIIIllIIlllIllIIIllIIIllIIlIIlllIIIlIIIlIIllIIlllIlIIIlllIIllIIIlIIIllIlIIIllIIlllIIlllIlll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IIllIIllIIllIIIllIIlllIlIIIllIlllIIllIIlIlIIIllIIllIlllIIllIllIIlIIllIlIIIlllIIllIlllIIIllIllIllIIllIlllIIIlIIllIlllIlllIIllIIllIllIIIlIllIIlIlIIlIIllIlIIIlIIIlIIlllIIllIllIlllIIlIlllIIlIllIlllIIIllIIIllIlIIIllIIlIIlIIlIlll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IlIllIIIllIIIlIIIlIIlIIIlIIlllIIllIIllIlllIlIIlIllIIIlIIlIllIIllIllIIllIIllIIlllIllIllIIlllIIIlIIIllIIlIlIIIllIIIlIIlIllIIlIIllIIIllIIllIlIIlllIIlIIIlIllIIIlIIIllIIlllIIllIIlllIllIIIlllIIIlllIllIllIllIIlIIlllIIIlllIIlllIIIlllIllIIll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.IllIllIIIlIIIlllIIllIIlIIlllIIIlIlIIllIIlIIIlIIllIIIllIIlIIIllIIlIlllIlllIllIIIlIIllIIIllIIlIllIIIllIIIllIlIIIlIIllIlIlIIlllIIIllIlIllIIlllIIIlIllIllIlIlIIIllIIllIIllIIlIllIIlIlIIlIIllIIllIlIlllIIIllIIlllIlIIlIIlIIIlll;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.cb;
+import me.snow.aclient.core.setting.superblaubeere27obfuscator.cv;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.entity.AbstractClientPlayer;
+import net.minecraft.client.entity.EntityPlayerSP;
+import net.minecraft.client.network.NetHandlerPlayClient;
+import net.minecraft.entity.MoverType;
+import net.minecraft.stats.RecipeBook;
+import net.minecraft.stats.StatisticsManager;
+import net.minecraft.util.MovementInput;
+import net.minecraft.util.math.AxisAlignedBB;
+import net.minecraft.util.math.Vec2f;
+import net.minecraft.world.World;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.fml.common.eventhandler.Event;
+import org.spongepowered.asm.mixin.Final;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.Shadow;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.Redirect;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
+
+@Mixin(value={EntityPlayerSP.class}, priority=9998)
+public abstract class MixinEntityPlayerSP
+extends AbstractClientPlayer {
+    @Shadow
+    @Final
+    public NetHandlerPlayClient connection;
+    @Shadow
+    private boolean serverSprintState;
+    @Shadow
+    private boolean serverSneakState;
+    @Shadow
+    private double lastReportedPosX;
+    @Shadow
+    private double lastReportedPosY;
+    @Shadow
+    private double lastReportedPosZ;
+    @Shadow
+    private float lastReportedYaw;
+    @Shadow
+    private float lastReportedPitch;
+    @Shadow
+    private int positionUpdateTicks;
+    @Shadow
+    private boolean prevOnGround;
+    @Shadow
+    private boolean autoJumpEnabled;
+    @Shadow
+    public MovementInput movementInput;
+    private double cachedX;
+    private double cachedY;
+    private double cachedZ;
+    private float cachedRotationPitch;
+    private float cachedRotationYaw;
+    private boolean cachedMoving;
+    private boolean cachedOnGround;
+
+    public MixinEntityPlayerSP(Minecraft p_i47378_1_, World p_i47378_2_, NetHandlerPlayClient p_i47378_3_, StatisticsManager p_i47378_4_, RecipeBook p_i47378_5_) {
+        super(p_i47378_2_, p_i47378_3_.getGameProfile());
+    }
+
+    @Inject(method={"sendChatMessage"}, at={@At(value="HEAD")}, cancellable=true)
+    public void sendChatMessage(String message, CallbackInfo callback) {
+        IlIllIIIllIIIlIIIlIIlIIIlIIlllIIllIIllIlllIlIIlIllIIIlIIlIllIIllIllIIllIIllIIlllIllIllIIlllIIIlIIIllIIlIlIIIllIIIlIIlIllIIlIIllIIIllIIllIlIIlllIIlIIIlIllIIIlIIIllIIlllIIllIIlllIllIIIlllIIIlllIllIllIllIIlIIlllIIIlllIIlllIIIlllIllIIll chatEvent = new IlIllIIIllIIIlIIIlIIlIIIlIIlllIIllIIllIlllIlIIlIllIIIlIIlIllIIllIllIIllIIllIIlllIllIllIIlllIIIlIIIllIIlIlIIIllIIIlIIlIllIIlIIllIIIllIIllIlIIlllIIlIIIlIllIIIlIIIllIIlllIIllIIlllIllIIIlllIIIlllIllIllIllIIlIIlllIIIlllIIlllIIIlllIllIIll(message);
+        MinecraftForge.EVENT_BUS.post((Event)chatEvent);
+    }
+
+    @Redirect(method={"onLivingUpdate"}, at=@At(value="INVOKE", target="Lnet/minecraft/client/entity/EntityPlayerSP;setSprinting(Z)V", ordinal=2))
+    public void onLivingUpdate(EntityPlayerSP entityPlayerSP, boolean sprinting) {
+        if (IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll.Method2162142().Method2150386() && IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll.Method2162142().IllIllIIIlllIllIIlllIlIllIIllIllIIlIIIlIIlllIIllIlllIIlIlIlIIlIIIllIIlIIIllIIIllIIlIIlIIIllIIlIllIIlllIlIIlllIllIIIllIIllIIlllIIIllIIllIIIllIIIllIIIlllIIlIlIIIlIlllIIIlIIllIlIIlllIlIIllIllIllIlllIIllIIIllIIIllIIlIIlIIIlIIllIll.getValue() == IlIIIlllIlIIIlIIllIllIIIllIIllIIllIlllIIIlllIllIlllIIlllIIIlllIIlIllIIllIlIIIllIllIIllIllIlIllIIlllIIlllIIIlIIlllIIIllIIIlIIlllIIllIIlIIIlIllIIllIlIIlIIllIIllIIllIIlllIIIlIIlllIIIllIlllIlIIllIIlIIlIIIllIIlIlIllIIlIIllIllIIllIIlll.IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll && (cv.IIlIIllIlIIllIIlllIIlllIIlIIlIIIllIIllIIlIIlllIIllIIllIIllIIllIllIIIlIIIllIIlIlIlIIlllIIIllIIIlIIlIIIlIllIlllIlIIllIllIIIlIIIlIIIlllIlIIllIlIlllIIlIllIIllIIIlIIllIIllIIllIIIlIIIlIIllIIllIlIIIllIIllIIllIIllIlIIIlIIIlIIlIIIlll.player.movementInput.moveForward != 0.0f || cv.IIlIIllIlIIllIIlllIIlllIIlIIlIIIllIIllIIlIIlllIIllIIllIIllIIllIllIIIlIIIllIIlIlIlIIlllIIIllIIIlIIlIIIlIllIlllIlIIllIllIIIlIIIlIIIlllIlIIllIlIlllIIlIllIIllIIIlIIllIIllIIllIIIlIIIlIIllIIllIlIIIllIIllIIllIIllIlIIIlIIIlIIlIIIlll.player.movementInput.moveStrafe != 0.0f)) {
+            entityPlayerSP.setSprinting(true);
+        } else {
+            entityPlayerSP.setSprinting(sprinting);
+        }
+    }
+
+    @Inject(method={"pushOutOfBlocks"}, at={@At(value="HEAD")}, cancellable=true)
+    private void pushOutOfBlocksHook(double x, double y, double z, CallbackInfoReturnable<Boolean> info) {
+        IIllIIIlIllIIlIIlIllIIlllIIlIIlIIlIIllIllIIlIIIlIIllIIlIIlllIlIIIllIllIIIlllIIlllIllIIIlIlllIIIllIIlIlllIIllIIIlllIIllIlllIllIIllIIIllIIIlIIlIIIlllIllIIIllIIlllIllIIIllIIIllIIlIIlllIIIlIIIlIIllIIlllIlIIIlllIIllIIIlIIIllIlIIIllIIlllIIlllIlll event = new IIllIIIlIllIIlIIlIllIIlllIIlIIlIIlIIllIllIIlIIIlIIllIIlIIlllIlIIIllIllIIIlllIIlllIllIIIlIlllIIIllIIlIlllIIllIIIlllIIllIlllIllIIllIIIllIIIlIIlIIIlllIllIIIllIIlllIllIIIllIIIllIIlIIlllIIIlIIIlIIllIIlllIlIIIlllIIllIIIlIIIllIlIIIllIIlllIIlllIlll(1);
+        MinecraftForge.EVENT_BUS.post((Event)event);
+        if (event.isCanceled()) {
+            info.setReturnValue(false);
+        }
+    }
+
+    @Inject(method={"onUpdateWalkingPlayer"}, at={@At(value="HEAD")}, cancellable=true)
+    private void preMotion(CallbackInfo info) {
+        IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl event = new IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl(0);
+        MinecraftForge.EVENT_BUS.post((Event)event);
+        if (event.isCanceled()) {
+            info.cancel();
+        }
+    }
+
+    @Redirect(method={"onUpdateWalkingPlayer"}, at=@At(value="FIELD", target="net/minecraft/util/math/AxisAlignedBB.minY:D"))
+    private double minYHook(AxisAlignedBB bb) {
+        if (IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.Method2161016().Method2150386() && IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.Method2161016().IllIllIIIlllIllIIlllIlIllIIllIllIIlIIIlIIlllIIllIlllIIlIlIlIIlIIIllIIlIIIllIIIllIIlIIlIIIllIIlIllIIlllIlIIlllIllIIIllIIllIIlllIIIllIIllIIIllIIIllIIIlllIIlIlIIIlIlllIIIlIIllIlIIlllIlIIllIllIllIlllIIllIIIllIIIllIIlIIlIIIlIIllIll.getValue() == IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll.IlIIIlIIllIlllIlIIIlIIlllIIlIllIIlIIllIIIlllIIlllIIIlIIIlIIllIlllIIllIllIIIlllIlIllIIIlllIIlllIlIIllIIIllIlIIlIlllIllIIlIIllIllIlIlIIlIIIllIIllIIlIllIIllIIlIIlllIllIIIllIlllIIllIlllIlIIlIllIIlllIIIllIlllIIIllIIlIIllIlllIIll && IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.Method2161016().IlllIllIIllIllIIIlllIllIIIlllIIlIIllIIlIllIIlllIIllIIIlIlIlllIIlIlIllIIIllIlllIlllIllIIIllIIIlIIIlIIIlIIIlIIllIllIIIllIllIlIIIlllIIllIIllIIllIIlllIIIlIIIlIIIlIllIIIlllIIlllIlllIIlIIIlIIlllIlIIllIIllIIIllIIlllIlIIIlIllIIlllIIIlllIIllIIIlll) {
+            IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.Method2161016().IlllIllIIllIllIIIlllIllIIIlllIIlIIllIIlIllIIlllIIllIIIlIlIlllIIlIlIllIIIllIlllIlllIllIIIllIIIlIIIlIIIlIIIlIIllIllIIIllIllIlIIIlllIIllIIllIIllIIlllIIIlIIIlIIIlIllIIIlllIIlllIlllIIlIIIlIIlllIlIIllIIllIIIllIIlllIlIIIlIllIIlllIIIlllIIllIIIlll = false;
+            return IIllIIIlIIllIlIllIIIlllIIllIllIllIIlIIIllIIlIIlIIlIIlIllIlllIlllIIlIIlIIlIIllIIIllIlIIlllIIlllIIIlIlllIIlIIlIIIllIIIlIIllIIIlIIlIIIllIlIIllIIllIIllIIlIIlIIllIIIlllIIIlIIIllIllIIlIllIIlIIIllIIIllIIllIIlllIIllIIllIlllIllIIlIIl.Method2161016().IllIllIIIlIllIllIIllIIIlllIlIllIIlIIlIlIIllIllIIIlllIllIllIIIllIlIlIIIlIIIllIIllIIlIllIIlIIlllIIlIIlllIllIIIllIIllIIIlIllIlllIIllIIIllIlIlIIIlIlIIllIIllIIlllIIIlIIllIllIllIIIlllIIlllIllIIlIIlIIlIIllIIllIIlIIIlllIIlIIlll;
+        }
+        return bb.minY;
+    }
+
+    @Inject(method={"onUpdateWalkingPlayer"}, at={@At(value="RETURN")})
+    private void postMotion(CallbackInfo info) {
+        IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl event = new IIllIIIlllIIIlIIlllIllIIllIIlllIllIlllIIIlIIlllIIllIlllIlIllIllIIIllIIllIlIlIIllIIllIlllIIIlllIlllIIllIIlllIIllIllIIlIllIlllIIlllIIIllIIIllIIIlllIIlIIlllIIIlllIIlllIIlllIIlllIIlIllIIIlllIIllIIllIlIIllIIIlIIllIIIlIIlllIIllIllIIlllIIlIllIIllIl(1);
+        MinecraftForge.EVENT_BUS.post((Event)event);
+    }
+
+    @Inject(method={"Lnet/minecraft/client/entity/EntityPlayerSP;setServerBrand(Ljava/lang/String;)V"}, at={@At(value="HEAD")})
+    public void getBrand(String brand, CallbackInfo callbackInfo) {
+        if (IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll.IllIllIIIlIllIllIIllIIIlllIlIllIIlIIlIlIIllIllIIIlllIllIllIIIllIlIlIIIlIIIllIIllIIlIllIIlIIlllIIlIIlllIllIIIllIIllIIIlIllIlllIIllIIIllIlIlIIIlIlIIllIIllIIlllIIIlIIllIllIllIIIlllIIlllIllIIlIIlIIlIIllIIllIIlIIIlllIIlIIlll != null) {
+            IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll.IllIllIIIlIllIllIIllIIIlllIlIllIIlIIlIlIIllIllIIIlllIllIllIIIllIlIlIIIlIIIllIIllIIlIllIIlIIlllIIlIIlllIllIIIllIIllIIIlIllIlllIIllIIIllIlIlIIIlIlIIllIIllIIlllIIIlIIllIllIllIIIlllIIlllIllIIlIIlIIlIIllIIllIIlIIIlllIIlIIlll.Method2150205(brand);
+        }
+    }
+
+    @Redirect(method={"move"}, at=@At(value="INVOKE", target="Lnet/minecraft/client/entity/AbstractClientPlayer;move(Lnet/minecraft/entity/MoverType;DDD)V"))
+    public void move(AbstractClientPlayer player, MoverType moverType, double x, double y, double z) {
+        IIIllIllIIllIlllIIlIIIllIllIIllIIlIIIllIIllIIlIlllIIlllIlllIIllIlllIIlllIIllIllIllIIlIIlllIIIlIlIllIllIIIlllIIIlIIIllIllIIlIIlllIIlIIllIIIllIIIlllIlllIlIIlIIIlIlIllIIlIIllIIIlIIIllIIIllIIIlllIIllIllIIIllIllIlllIllIIlIIllIIlIlllIIIl event = new IIIllIllIIllIlllIIlIIIllIllIIllIIlIIIllIIllIIlIlllIIlllIlllIIllIlllIIlllIIllIllIllIIlIIlllIIIlIlIllIllIIIlllIIIlIIIllIllIIlIIlllIIlIIllIIIllIIIlllIlllIlIIlIIIlIlIllIIlIIllIIIlIIIllIIIllIIIlllIIllIllIIIllIllIlllIllIIlIIllIIlIlllIIIl(0, moverType, x, y, z);
+        MinecraftForge.EVENT_BUS.post((Event)event);
+        if (!event.isCanceled()) {
+            super.move(event.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll(), event.IlllIIlIIIlllIIIlIIllIlIllIIIlIIIllIlllIIIllIIlIIllIIllIlllIIllIIllIIllIIllIIlllIIlllIllIIllIlllIlIllIIlllIllIllIIlllIIllIIIlllIIIllIIIllIlllIIlllIIlIlIlIlIllIIIlllIIlIllIIllIIlllIIlIIIllIIIllIIlIIlllIlIllIllIIlIIIllIllIIlIIllIll(), event.IIllIIIllIllIIIlllIIIlllIIllIIlllIlIIIllIllIlIIlIIIlllIIlIIllIIllIlIllIIllIIIllIIlIllIIlIIlIIllIIlIlIIllIllIIlIlIIlIIIllIIlIllIllIIlllIllIIlIlllIIllIlIlllIIlllIIIlIIlIIllIlllIlIIllIIIllIlIlIIlIIllIllIlIllIIIllIIll(), event.IlIIIlIIllIlllIlIIIlIIlllIIlIllIIlIIllIIIlllIIlllIIIlIIIlIIllIlllIIllIllIIIlllIlIllIIIlllIIlllIlIIllIIIllIlIIlIlllIllIIlIIllIllIlIlIIlIIIllIIllIIlIllIIllIIlIIlllIllIIIllIlllIIllIlllIlIIlIllIIlllIIIllIlllIIIllIIlIIllIlllIIll());
+        }
+    }
+
+    @Shadow
+    protected abstract void onUpdateWalkingPlayer();
+
+    @Shadow
+    protected abstract boolean isCurrentViewEntity();
+
+    @Inject(method={"onLivingUpdate"}, at={@At(value="INVOKE", target="Lnet/minecraft/util/MovementInput;updatePlayerMoveState()V")})
+    private void onMoveStateUpdate(CallbackInfo ci) {
+        MinecraftForge.EVENT_BUS.post((Event)new IllIllIIIlIIIlllIIllIIlIIlllIIIlIlIIllIIlIIIlIIllIIIllIIlIIIllIIlIlllIlllIllIIIlIIllIIIllIIlIllIIIllIIIllIlIIIlIIllIlIlIIlllIIIllIlIllIIlllIIIlIllIllIlIlIIIllIIllIIllIIlIllIIlIlIIlIIllIIllIlIlllIIIllIIlllIlIIlIIlIIIlll(this.movementInput));
+    }
+
+    @Inject(method={"onUpdateWalkingPlayer"}, at={@At(value="HEAD")}, cancellable=true)
+    private void onUpdateWalkingPlayerPre(CallbackInfo ci) {
+        cv.IIlIIllIlIIllIIlllIIlllIIlIIlIIIllIIllIIlIIlllIIllIIllIIllIIllIllIIIlIIIllIIlIlIlIIlllIIIllIIIlIIlIIIlIllIlllIlIIllIllIIIlIIIlIIIlllIlIIllIlIlllIIlIllIIllIIIlIIllIIllIIllIIIlIIIlIIllIIllIlIIIllIIllIIllIIllIlIIIlIIIlIIlIIIlll.profiler.startSection("muffinPreMotionUpdate");
+        this.cachedX = this.posX;
+        this.cachedY = this.posY;
+        this.cachedZ = this.posZ;
+        this.cachedRotationYaw = this.rotationYaw;
+        this.cachedRotationPitch = this.rotationPitch;
+        this.cachedOnGround = this.onGround;
+        cb location = new cb(this.posX, this.posY, this.posZ, this.onGround, cb.Method2163815());
+        Vec2f prevRotation = new Vec2f(this.prevRotationYaw, this.prevRotationPitch);
+        Vec2f rotation = new Vec2f(this.rotationYaw, this.rotationPitch);
+        IIllIIllIIllIIIllIIlllIlIIIllIlllIIllIIlIlIIIllIIllIlllIIllIllIIlIIllIlIIIlllIIllIlllIIIllIllIllIIllIlllIIIlIIllIlllIlllIIllIIllIllIIIlIllIIlIlIIlIIllIlIIIlIIIlIIlllIIllIllIlllIIlIlllIIlIllIlllIIIllIIIllIlIIIllIIlIIlIIlIlll motionEvent = new IIllIIllIIllIIIllIIlllIlIIIllIlllIIllIIlIlIIIllIIllIlllIIllIllIIlIIllIlIIIlllIIllIlllIIIllIllIllIIllIlllIIIlIIllIlllIlllIIllIIllIllIIIlIllIIlIlIIlIIllIlIIIlIIIlIIlllIIllIllIlllIIlIlllIIlIllIlllIIIllIIIllIlIIIllIIlIIlIIlIlll(location, rotation, prevRotation);
+        MinecraftForge.EVENT_BUS.post((Event)motionEvent);
+        this.posX = motionEvent.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll().Method2163822();
+        this.posY = motionEvent.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll().Method2163824();
+        this.posZ = motionEvent.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll().Method2163826();
+        this.rotationYaw = motionEvent.IlllIIlIIIlllIIIlIIllIlIllIIIlIIIllIlllIIIllIIlIIllIIllIlllIIllIIllIIllIIllIIlllIIlllIllIIllIlllIlIllIIlllIllIllIIlllIIllIIIlllIIIllIIIllIlllIIlllIIlIlIlIlIllIIIlllIIlIllIIllIIlllIIlIIIllIIIllIIlIIlllIlIllIllIIlIIIllIllIIlIIllIll().x;
+        this.rotationPitch = motionEvent.IlllIIlIIIlllIIIlIIllIlIllIIIlIIIllIlllIIIllIIlIIllIIllIlllIIllIIllIIllIIllIIlllIIlllIllIIllIlllIlIllIIlllIllIllIIlllIIllIIIlllIIIllIIIllIlllIIlllIIlIlIlIlIllIIIlllIIlIllIIllIIlllIIlIIIllIIIllIIlIIlllIlIllIllIIlIIIllIllIIlIIllIll().y;
+        this.onGround = motionEvent.IIllIllIIllIlIIlIlIIlllIllIIllIIllIlIIllIIIllIIIllIIllIIIlIllIIlIIlllIllIIlIllIllIIlIIlIlIIIlIllIIllIlllIllIIIllIIlIIlllIllIIlIIIlIIllIIllIIlIlIIlIllIIlllIlIIlllIIlIlIIlIIlIlllIIlIIIlIIllIllIlllIIlllIIIlIIllIIIlll().Method2163816();
+        if (motionEvent.IlIIIlIIllIlllIlIIIlIIlllIIlIllIIlIIllIIIlllIIlllIIIlIIIlIIllIlllIIllIllIIIlllIlIllIIIlllIIlllIlIIllIIIllIlIIlIlllIllIIlIIllIllIlIlIIlIIIllIIllIIlIllIIllIIlIIlllIllIIIllIlllIIllIlllIlIIlIllIIlllIIIllIlllIIIllIIlIIllIlllIIll()) {
+            this.rotationYawHead = motionEvent.IlllIIlIIIlllIIIlIIllIlIllIIIlIIIllIlllIIIllIIlIIllIIllIlllIIllIIllIIllIIllIIlllIIlllIllIIllIlllIlIllIIlllIllIllIIlllIIllIIIlllIIIllIIIllIlllIIlllIIlIlIlIlIllIIIlllIIlIllIIllIIlllIIlIIIllIIIllIIlIIlllIlIllIllIIlIIIllIllIIlIIllIll().x;
+            this.renderYawOffset = motionEvent.IlllIIlIIIlllIIIlIIllIlIllIIIlIIIllIlllIIIllIIlIIllIIllIlllIIllIIllIIllIIllIIlllIIlllIllIIllIlllIlIllIIlllIllIllIIlllIIllIIIlllIIIllIIIllIlllIIlllIIlIlIlIlIllIIIlllIIlIllIIllIIlllIIlIIIllIIIllIIlIIlllIlIllIllIIlIIIllIllIIlIIllIll().x;
+        }
+        if (motionEvent.isCanceled()) {
+            ci.cancel();
+        }
+        cv.IIlIIllIlIIllIIlllIIlllIIlIIlIIIllIIllIIlIIlllIIllIIllIIllIIllIllIIIlIIIllIIlIlIlIIlllIIIllIIIlIIlIIIlIllIlllIlIIllIllIIIlIIIlIIIlllIlIIllIlIlllIIlIllIIllIIIlIIllIIllIIllIIIlIIIlIIllIIllIlIIIllIIllIIllIIllIlIIIlIIIlIIlIIIlll.profiler.endSection();
+    }
+}
+
